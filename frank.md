@@ -7,7 +7,7 @@ This is a WhatsApp bot built with Node.js and the Baileys library. It provides a
 - **October 30, 2025**: 
   - Added better-sqlite3 for persistent configuration storage
   - Created configdb.js helper for database operations
-  - Integrated advanced settings commands from Kerm MD
+  - Integrated advanced settings commands from SUBZERO MD
   - Added commands: setbotimage, setbotname, setownername, setvar, and various toggle settings
   - Updated .gitignore to exclude session files, temp media, and environment files
 
